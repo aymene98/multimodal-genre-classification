@@ -5,6 +5,9 @@ models
 msdi
 redaction
 
+classifier.py
+draft.py
+
 # extention of data files
 *.zip
 *.pdf
